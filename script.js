@@ -6,7 +6,7 @@ $(function() {
       margin: 0,
       loop: false,
       nav: true,
-      navText: ["<img class='arrow-width' src='vector.png'>", "<img class='arrow-width' src='vector1.png'>"],
+      navText: ["<img class='arrow-width' src='image/caro/vector.png'>", "<img class='arrow-width' src='image/caro/vector1.png'>"],
      
       responsive: {
         0: {
